@@ -2,7 +2,12 @@
 	"author": "Rajoo Uddin",
 	"name": "fcc-learn-npm-package-json",
 	"description": "I don't know where my bananas are",
-  "keywords": ["freecodecamp", "monkey", "bananas"],
+	"keywords": [
+		"freecodecamp",
+		"monkey",
+		"bananas"
+	],
+  "licence": "MIT",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
