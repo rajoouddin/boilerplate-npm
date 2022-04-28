@@ -1,6 +1,7 @@
 {
 	"author": "Rajoo Uddin",
 	"name": "fcc-learn-npm-package-json",
+  "description": "I don't know where my bananas are",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
